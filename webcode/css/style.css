@@ -1,0 +1,22 @@
+.sunday {
+  color: red;
+}
+
+.saturday {
+  color: blue;
+}
+
+td,
+th {
+  text-align: center;
+}
+
+table {
+  margin-top: 50px;
+  border-collapse: collapse;
+}
+
+.calendar {
+  display: flex;
+  justify-content: center;
+}
